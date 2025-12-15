@@ -1,0 +1,6 @@
+Mesh: scene.glb
+Vertices: 288,632
+Faces: 577,264
+Bounds (x): [-0.499, 0.499]
+Bounds (y): [-0.194, 0.194]
+Bounds (z): [-0.207, 0.207]
